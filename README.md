@@ -1,1 +1,1 @@
-# Assignment
+# Basic RAG Model AI Chatbot
